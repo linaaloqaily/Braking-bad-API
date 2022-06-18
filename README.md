@@ -1,2 +1,2 @@
 # Braking-bad-API:
-### https://linaaloqaily.github.io/Braking-bad-API/
+### https://linaaloqaily.github.io/Breaking-bad-API/
