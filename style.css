@@ -1,0 +1,48 @@
+body {
+  background: rgb(21, 53, 17);
+
+}
+.container {
+    color: rgb(255, 255, 255);
+}
+
+.resultImg {
+  width: 300px;
+  height: 400px;
+  border-radius: 10px;
+}
+.charImg {
+  position: relative;
+  width: 300px;
+  height: 400px;
+  border-radius: 10px;
+  border: 50px;
+  margin: 20px;
+  justify-content: center;
+}
+.imageInfo {
+  position: absolute;
+  margin: 20px;
+  justify-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(121, 212, 133, 0.323) 0%,
+    rgba(153, 158, 102, 0.411) 0%
+  );
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.data {
+  color: white;
+  margin-left: 12% ;
+}
+#output{
+    padding: auto;
+    margin: auto;
+    justify-content: center;
+}
+
